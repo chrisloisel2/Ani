@@ -1,3 +1,9 @@
-./logs/
-./ckpts/
-./datasets/
+logs/
+ckpts/
+datasets/
+*.index
+*.npz
+*.h5
+*.pt
+*.bin
+*.ckpt
